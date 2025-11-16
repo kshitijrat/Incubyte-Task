@@ -112,6 +112,29 @@ http://localhost:5173
 
 ---
 
+## Screenshots
+All screenshots are placed in the `frontend/screenshots/` folder.
+
+### Login Page
+![Login Page](frontend/screenshots/login.png)
+
+### Register Page
+![Register Page](frontend/screenshots/register.png)
+
+### User Dashboard
+![User Dashboard](frontend/screenshots/user-dashboard.png)
+
+### Admin Dashboard
+![Admin Dashboard](frontend/screenshots/admin-dashboard.png)
+
+### Add/Update Sweet (Admin)
+![Add-Update Sweet](frontend/screenshots/add-update.png)
+
+### Purchase Sweet
+![Purchase](frontend/screenshots/purchase.png)
+
+
+---
 
 ## My AI Usage
 
