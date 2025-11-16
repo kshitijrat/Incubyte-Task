@@ -3,7 +3,7 @@
 
 ## Features
 
-### Backend
+### Backend (Java21 - Spring Boot, Mysql8)
 
 * User registration
 * User login
@@ -17,7 +17,7 @@
 * Search sweets by name, category, or price
 * Purchase sweet (user or admin)
 
-### Frontend
+### Frontend (Reactjs)
 
 * Register page
 * Login page
